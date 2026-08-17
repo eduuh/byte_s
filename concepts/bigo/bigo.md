@@ -1,4 +1,5 @@
 ---
+title: How C programs use memory
 id: datastructures
 aliases: []
 tags: []

@@ -1,3 +1,7 @@
+---
+title: Big O — the idea
+---
+
 <!--toc:start-->
 - [What's the idea here?](#whats-the-idea-here)
 - [Example](#example)
