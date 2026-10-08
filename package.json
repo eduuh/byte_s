@@ -1,7 +1,7 @@
 {
   "type": "module",
   "devDependencies": {
-    "@babel/core": "^7.28.3",
+    "@babel/core": "^7.29.6",
     "@babel/preset-env": "^7.28.3",
     "@babel/preset-typescript": "^7.27.1",
     "@jest/globals": "^29.7.0",
